@@ -1,0 +1,10 @@
+1)In the first step we need a web scrapper 
+scrapper can be build in many ways
+using a python language we can build a scrapper
+2)In the second step we need to extract data from the page
+from the source of html page
+we use the command $ scrapy run spider filename.py for extracting the data
+3)for crawling multiple pages ,for multiple pages we need to call back the process that is followed earlier
+CONCLUSION
+In conclusion to crawl a web page  we need a programming language such as python for extracting data and extarct images.
+libraries in python also used for its web devlopment technology.
